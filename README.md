@@ -9,6 +9,7 @@ Iranian ad services domains list that can be used in ad-blocking softwares like 
 3. Add the following URL to the list of adlists:
 ```https://github.com/kiumarsj/iranian-adlist/blob/main/adlist.ir```
 4. Click `Save`
+5. Enter the tools section and update the gravity
 
 ## How to contribute
 
